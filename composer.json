@@ -1,0 +1,20 @@
+{
+    "name": "lzfcode/common-library",
+    "description": "a libarry",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "smartisan",
+            "email": "smartisan@dev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "smartisanlibrary\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
