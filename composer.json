@@ -4,14 +4,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "smartisan",
-            "email": "smartisan@dev.com"
+            "name": "lzfcommontool",
+            "email": "lzfcommontool@dev.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "smartisanlibrary\\": "src/"
+            "lzfcommontool\\": "src/"
         }
     },
     "require": {
